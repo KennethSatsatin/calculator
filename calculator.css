@@ -41,11 +41,11 @@ h1 {
 }
 
 input[type='button']:hover {
-    background-color: white;
+    background-color: #F1F3C2;
 }
 
 input[type='button']:active {
-    background-color: green;
+    background-color: white;
 }
 
 .operator {
